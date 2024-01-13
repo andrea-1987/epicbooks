@@ -1,0 +1,10 @@
+main{
+    display: flex;
+}
+.card img{
+    width: 100%;
+    aspect-ratio: 9/16;
+};
+.card a{
+  align-items: end;
+}
